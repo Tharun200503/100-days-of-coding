@@ -28,11 +28,6 @@ Welcome to my **100 Days of Coding** journey! 🚀 This repository documents my 
 ---
 
 ## **Follow My Journey**
-Check back daily to see updates or follow me on GitHub for more coding adventures!
-
----
-
-## **Follow My Journey**
 Stay updated on my coding progress! 🚀
 
 - 🌟 Follow me on [GitHub](https://github.com/Tharun200503) for daily updates.
