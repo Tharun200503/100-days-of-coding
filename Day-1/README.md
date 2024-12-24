@@ -10,7 +10,7 @@
 • Variable Naming.
 
 
-##💡 **Key Learnings:**
+## 💡 **Key Learnings:**
 
 • Fundamentals of Python Syntax and Interaction.
 • Problem-solving and Debugging Skills.
