@@ -34,6 +34,13 @@ Stay updated on my coding progress! 🚀
 - 🔥 Check back here to see new programs and projects added every day.
 - 💬 Feel free to connect with me and share your thoughts or feedback!
 
+---
+
+## **Connect with me on Platforms**
+[Youtube](https://www.youtube.com/@Tharun-AS)
+[LinkedIn](https://www.linkedin.com/in/tharun-a-s-b45b8a2a8)
+[Instagram](https://www.instagram.com/tharun_as_2005)
+
 Let’s code and grow together! 💻✨
 
 ---
