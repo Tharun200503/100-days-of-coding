@@ -31,6 +31,6 @@ Follow along and share your feedback!
 ---
 
 ## Tip Calculator
-![day02](https://user-images.githubusercontent.com/98851253/154178407-2fd555e2-2bdd-4a87-ad03-477e07cb307e.gif)
+![day01](https://user-images.githubusercontent.com/98851253/154304693-a3aa3a5a-e8f3-46b8-bcea-6f0884aad99c.gif)
 
 ---
