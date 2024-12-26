@@ -25,6 +25,10 @@ Follow along and share your feedback!
 [Instagram](https://www.instagram.com/tharun_as_2005) | 
 
 #100DaysOfCode #Python #CodingChallenge
+
 ---  
+
 ## Treasure Island
 ![day03](https://user-images.githubusercontent.com/98851253/154304693-a3aa3a5a-e8f3-46b8-bcea-6f0884aad99c.gif)
+
+---
