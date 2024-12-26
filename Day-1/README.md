@@ -1,5 +1,5 @@
 # **Day 1: Working with Variables in Python to Manage Data**
-
+---
 ## ✅ **Concepts Practiced:**
 
 - Printing to the Console in Python.
