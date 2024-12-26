@@ -2,18 +2,18 @@
 ---
 ## ✅ **Concepts Practiced:**
 
-• Control Flow with if / else and Conditional Operators.
-• Modulo Operator.
-• Nested if statements and elif statements.
-• Multiple If Statements in Succession
-• Logical Operators.
----
+- Control Flow with if / else and Conditional Operators.
+- Modulo Operator.
+- Nested if statements and elif statements.
+- Multiple If Statements in Succession
+- Logical Operators.
+
 ## **💡 Key Learnings:**
 
-• Mastering Conditional Logic and Control Flow.
-• Using Modulo and Advanced Conditional Structures.
----
-## **Next Up:** Randomisation and Python Lists.
+- Mastering Conditional Logic and Control Flow.
+- Using Modulo and Advanced Conditional Structures.
+
+## **Next Up:** *Randomisation and Python Lists.*
 
 Follow along and share your feedback! 
 [GitHub](https://github.com/Tharun200503)
