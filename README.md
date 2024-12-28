@@ -37,8 +37,8 @@ Stay updated on my coding progress! 🚀
 ---
 
 ## **Connect with me on Platforms**
-[Youtube](https://www.youtube.com/@Tharun-AS)
-[LinkedIn](https://www.linkedin.com/in/tharun-a-s-b45b8a2a8)
+[Youtube](https://www.youtube.com/@Tharun-AS) | 
+[LinkedIn](https://www.linkedin.com/in/tharun-a-s-b45b8a2a8) | 
 [Instagram](https://www.instagram.com/tharun_as_2005)
 
 Let’s code and grow together! 💻✨
