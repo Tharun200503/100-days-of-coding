@@ -6,7 +6,7 @@
 - Indentation in Python.
 - While Loops.
 
-##💡 **Key Learnings:**
+## 💡 **Key Learnings:**
 
 - Mastering Functions and Proper Structure.
 - Using Loops for Repeated Execution.
