@@ -20,7 +20,7 @@ Follow along and share your feedback!
 [LinkedIn](https://www.linkedin.com/in/tharun-a-s-b45b8a2a8) | 
 [Instagram](https://www.instagram.com/tharun_as_2005) | 
 
-#100DaysOfCode #Python #CodingChallenge
+#100daysofcode #python #codingchallenge #coding #tiktok #viralshorts #trending #tipsandtricks
 ---
 ## Tip Calculator
 ![day02](https://user-images.githubusercontent.com/98851253/154178407-2fd555e2-2bdd-4a87-ad03-477e07cb307e.gif)
