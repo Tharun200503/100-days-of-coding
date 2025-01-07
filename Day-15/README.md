@@ -2,18 +2,18 @@
 ---
 ## ✅ **Concepts Practiced:**
 
-- Local Development Environment Setup:\
+- **_Local Development Environment Setup:_**\
 Installing Python, configuring an IDE or text editor, and setting up the tools required to write, debug, and execute Python code effectively.
 
-- Simulating a Coffee Machine Program:\
+- **_Simulating a Coffee Machine Program:_**\
 Designing a program that involves user input, conditional logic, loops, and data structures (e.g., dictionaries) to simulate a coffee machine's functionality.
 
 ## 💡 **Key Learnings:**
 
-- **Building a Functional Programming Workflow:**\
+- **_Building a Functional Programming Workflow:_**\
 Learn how to set up a development environment for seamless coding, testing, and debugging, which is foundational for any programming task.
 
-- **Practical Application of Python Basics:**\
+- **_Practical Application of Python Basics:_**\
 Apply concepts such as functions, loops, and conditionals to create a real-world simulation, enhancing problem-solving skills and reinforcing programming fundamentals.
 
 ## **Next Up:** *Object Oriented Programming (OOP)*
