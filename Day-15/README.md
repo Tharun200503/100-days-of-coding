@@ -13,7 +13,7 @@ Designing a program that involves user input, conditional logic, loops, and data
 - **Building a Functional Programming Workflow:**
 <br>Learn how to set up a development environment for seamless coding, testing, and debugging, which is foundational for any programming task.
 
-- **Practical Application of Python Basics:**
+- **Practical Application of Python Basics:**\
 Apply concepts such as functions, loops, and conditionals to create a real-world simulation, enhancing problem-solving skills and reinforcing programming fundamentals.
 
 ## **Next Up:** *Object Oriented Programming (OOP)*
