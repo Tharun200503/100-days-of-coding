@@ -3,10 +3,10 @@
 ## ✅ **Concepts Practiced:**
 
 - Local Development Environment Setup:
-Installing Python, configuring an IDE or text editor, and setting up the tools required to write, debug, and execute Python code effectively.
+\Installing Python, configuring an IDE or text editor, and setting up the tools required to write, debug, and execute Python code effectively.
 
 - Simulating a Coffee Machine Program:
-Designing a program that involves user input, conditional logic, loops, and data structures (e.g., dictionaries) to simulate a coffee machine's functionality.
+\Designing a program that involves user input, conditional logic, loops, and data structures (e.g., dictionaries) to simulate a coffee machine's functionality.
 
 ## 💡 **Key Learnings:**
 
